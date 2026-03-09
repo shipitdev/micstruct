@@ -1,4 +1,4 @@
-# ClickinBot: HFT Microstructure Sniper 🚀
+# MicStruct: HFT Microstructure Sniper 🚀
 
 ClickinBot is an event-driven, High-Frequency Trading (HFT) execution engine designed to "snipe" entries based on real-time market microstructure signals. It integrates Binance L2 Order Book data with Telegram-based trading signals, using Order Book Imbalance (OBI) and Order Flow Imbalance (OFI) to confirm high-probability entry points.
 
